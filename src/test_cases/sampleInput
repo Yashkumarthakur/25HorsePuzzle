@@ -1,0 +1,59 @@
+---------------------------------------------------------------Sample Input 1------------------------------------------------------------------------------
+-----------Sorting problem with minimum sort function call---------
+
+Enter 1 for manually enter 25 numbers.
+Enter 2 for generate random 25 numbers.
+
+1
+Enter 25 integer elemets for sorting: 
+
+66
+9
+2
+55
+47
+12
+2358
+41
+2
+84
+53
+25257
+74
+78
+87
+97
+79
+74
+14
+54
+35
+124
+4152
+74
+57
+Largest elements by ranks : 1, number :25257
+Largest elements by ranks : 2, number :2358
+Largest elements by ranks : 3, number :87
+number of Sort5(), calls : 7
+
+
+---------------------------------------------------------------Sample Input 1------------------------------------------------------------------------------
+-----------Sorting problem with minimum sort function call---------
+
+Enter 1 for manually enter 25 numbers.
+Enter 2 for generate random 25 numbers.
+
+2
+Enter start number for range (eg. 0): 
+10
+Enter END number for range (eg. 100): 
+1000
+Random generated numbers : 
+ NOTE : Their can be duplicate numbers! 
+
+[768, 166, 613, 36, 649, 975, 574, 59, 152, 470, 707, 510, 443, 591, 676, 981, 21, 801, 91, 622, 648, 116, 577, 21, 515]
+Largest elements by ranks : 1, number :981
+Largest elements by ranks : 2, number :975
+Largest elements by ranks : 3, number :801
+number of Sort5(), calls : 7
